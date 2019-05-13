@@ -13,23 +13,26 @@ export default {
 
 <style>
 #app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  font-family: comic sans ms;
+  text-align: center;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  color: #2c3e50;
+  color: #070707;
   margin-top: 60px;
   padding: 20px;
 }
 html {
-  background: #666;
+  line-height: 50px;
+  background: rgb(23, 77, 99);
   padding: 0;
   margin: 0;
 }
 body {
-  width: 75%;
+  color: black;
+  width: 100%;
   margin: 0 auto;
   padding: 0;
-  background: #fff;
+  background: rgb(92, 153, 172);
 }
 /* dl {
   padding: 5px;
